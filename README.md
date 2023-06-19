@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 ### 🔝 
 ![](https://github-contributor-stats.vercel.app/api?username=deletd&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-### 😂 
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deletd&icon=0&color=3)](https://visitcount.itsvg.in)
