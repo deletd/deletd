@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 
-![](https://github-contributor-stats.vercel.app/api?username=deletd&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deletd&icon=0&color=3)](https://visitcount.itsvg.in)
