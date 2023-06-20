@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨#  About Me:
-🔭 I’m currently working on IDIS IB ⚡ <br>
-👯 I’m collaborate on my projects 🤝 <br>
+#  About Me:
+👯 I’m currently working on IDIS IB ⚡ <br>
+✨ I’m collaborate on my projects 🤝 <br>
 🌱 I’m  constantly learning 💬 <br>
 
 
